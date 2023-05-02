@@ -1,1 +1,7 @@
-# time_series_project
+# Time Series Final Project
+
+### Team Members
+
+- Nicolas Ferreira
+- Egehan Yorulmaz
+- Pedro Ramonetti
